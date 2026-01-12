@@ -1,0 +1,14 @@
+{
+  "normal": {
+    "path": "character/milia/clouth/normal_.png",
+    "covers_arms": false
+  },
+  "desnude": {
+    "path": "character/milia/clouth/none_image.png",
+    "covers_arms": true
+  },
+  "casual": {
+    "path": "character/milia/clouth/casual_.png",
+    "covers_arms": false
+  }
+}

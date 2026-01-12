@@ -1,0 +1,58 @@
+{
+  "clothe1": {
+    "path": "character/azuli/clouth/clothe1.png",
+    "covers_arms": true
+  },
+  "clothe1a": {
+    "path": "character/azuli/clouth/clothe1a.png",
+    "covers_arms": true
+  },
+  "mese1": {
+    "path": "character/azuli/clouth/clothe2.png",
+    "covers_arms": false
+  },
+  "family_blue": {
+    "path": "character/azuli/clouth/family_blue.png",
+    "covers_arms": true
+  },
+  "mese2": {
+    "path": "character/azuli/clouth/clothe2a.png",
+    "covers_arms": false
+  },
+  "dog1": {
+    "path": "character/azuli/clouth/clothe_dog.png",
+    "covers_arms": false
+  },
+  "cat1": {
+    "path": "character/azuli/clouth/clothe_cat.png",
+    "covers_arms": false
+  },
+  "bunny1": {
+    "path": "character/azuli/clouth/clothe_bonnie.png",
+    "covers_arms": false
+  },
+  "clothe3": {
+    "path": "character/azuli/clouth/clothe3.png",
+    "covers_arms": false
+  },
+  "desnude": {
+    "path": "character/azuli/clouth/none_image.png",
+    "covers_arms": false
+  },
+  "casual1": {
+    "path": "character/azuli/clouth/clothe_casual.png",
+    "covers_arms": false
+  },
+  "viki1": {
+    "path": "character/azuli/clouth/interior_base.png",
+    "covers_arms": false
+  },
+  "wizard": {
+    "path": "character/azuli/clouth/clothe_magic.png",
+    "covers_arms": true
+  },
+  "gotica": {
+    "path": "character/azuli/clouth/clothe_gotica.png",
+    "covers_arms": true
+  }
+}
