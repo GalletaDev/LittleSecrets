@@ -1,0 +1,106 @@
+{
+    "_comment": "Este archivo contiene los regalos con sus precios e imágenes",
+
+    "chocolat": {
+        "price": 500,
+        "image": "gui/button_object_screen/button_obj_chocolat_hover.png"
+    },
+    "cookie": {
+        "price": 400,
+        "image": "gui/button_object_screen/button_obj_cookie_hover.png"
+    },
+    "ice_cream": {
+        "price": 500,
+        "image": "gui/button_object_screen/button_obj_icecream_hover.png"
+    },
+    "flower": {
+        "price": 600,
+        "image": "gui/button_object_screen/button_obj_flow_hover.png"
+    },
+    "pack": {
+        "price": 1500,
+        "image": "gui/button_object_screen/button_obj_pack_hover.png"
+    },
+    "perfume": {
+        "price": 1200,
+        "image": "gui/button_object_screen/button_obj_perfume_hover.png"
+    },
+    "pizza": {
+        "price": 1500,
+        "image": "gui/button_object_screen/button_obj_pizza_hover.png"
+    },
+    "cola": {
+        "price": 1000,
+        "image": "gui/button_object_screen/button_obj_cola_hover.png"
+    },
+    "chicken": {
+        "price": 800,
+        "image": "gui/button_object_screen/button_obj_chicken_hover.png"
+    },
+    "spaghetti": {
+        "price": 780,
+        "image": "gui/button_object_screen/button_obj_spaguetti_hover.png"
+    },
+    "pop": {
+        "price": 800,
+        "image": "gui/button_object_screen/button_obj_pop_hover.png"
+    },
+    "coco": {
+        "price": 600,
+        "image": "gui/button_object_screen/button_obj_coco_hover.png"
+    },
+    "pincho": {
+        "price": 750,
+        "image": "gui/button_object_screen/button_obj_pincho_hover.png"
+    },
+    "beer": {
+        "price": 900,
+        "image": "gui/button_object_screen/button_obj_beer_hover.png"
+    },
+    "fabada": {
+        "price": 1100,
+        "image": "gui/button_object_screen/button_obj_fabada_hover.png"
+    },
+    "vino": {
+        "price": 2000,
+        "image": "gui/button_object_screen/button_obj_vino_hover.png"
+    },
+    "hamburguer": {
+        "price": 1800,
+        "image": "gui/button_object_screen/button_obj_hamburguer_hover.png"
+    },
+    "coffee": {
+        "price": 2000,
+        "image": "gui/button_object_screen/button_obj_coffee_hover.png"
+    },
+
+
+    "brownie": {
+        "price": 3500,
+        "image": "gui/button_object_screen/conbine/button_obj_browne_hover.png"
+    },
+    "sundae_deluxe": {
+        "price": 3500,
+        "image": "gui/button_object_screen/conbine/button_obj_chococo_hover.png"
+    },
+    "cookie_ice": {
+        "price": 3500,
+        "image": "gui/button_object_screen/conbine/button_obj_hamcookie_hover.png"
+    },
+    "choco_flower": {
+        "price": 3500,
+        "image": "gui/button_object_screen/conbine/button_obj_bobo_hover.png"
+    },
+    "choco_pizza": {
+        "price": 3500,
+        "image": "gui/button_object_screen/conbine/button_obj_pichoco_hover.png"
+    },
+    "sweet_pincho": {
+        "price": 3500,
+        "image": "gui/button_object_screen/conbine/button_obj_pansugar_hover.png"
+    },
+    "vino_ice": {
+        "price": 3500,
+        "image": "gui/button_object_screen/conbine/button_obj_vinoice_hover.png"
+    }
+}

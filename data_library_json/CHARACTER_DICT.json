@@ -1,0 +1,32 @@
+{
+    "1": {
+        "name": "azuli_",
+        "culture": "spanish",
+        "clothe": "azuli_clothe",
+        "code": "azuli"
+    },
+    "2": {
+        "name": "milia_",
+        "culture": "eire",
+        "clothe": "milia_clothe",
+        "code": "milia"
+    },
+    "3": {
+        "name": "cristal_",
+        "culture": "japan",
+        "clothe": "cristal_clothe",
+        "code": "cristal"
+    },
+    "4": {
+        "name": "blody_",
+        "culture": "english",
+        "clothe": "blody_clothe",
+        "code": "blody"
+    },
+    "5": {
+        "name": "pink_",
+        "culture": "venezuela",
+        "clothe": "pink_clothe",
+        "code": "pink"
+    }
+}

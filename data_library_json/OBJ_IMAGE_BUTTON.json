@@ -1,0 +1,28 @@
+{
+    "chocolat": "gui/button_object_screen/button_obj_chocolat_%s.png",
+    "cookie": "gui/button_object_screen/button_obj_cookie_%s.png",
+    "ice_cream": "gui/button_object_screen/button_obj_icecream_%s.png",
+    "flower": "gui/button_object_screen/button_obj_flow_%s.png",
+    "pack": "gui/button_object_screen/button_obj_pack_%s.png",
+    "perfume": "gui/button_object_screen/button_obj_perfume_%s.png",
+    "pizza": "gui/button_object_screen/button_obj_pizza_%s.png",
+    "cola": "gui/button_object_screen/button_obj_cola_%s.png",
+    "chicken": "gui/button_object_screen/button_obj_chicken_%s.png",
+    "spaghetti": "gui/button_object_screen/button_obj_spaguetti_%s.png",
+    "pop": "gui/button_object_screen/button_obj_pop_%s.png",
+    "coco": "gui/button_object_screen/button_obj_coco_%s.png",
+    "pincho": "gui/button_object_screen/button_obj_pincho_%s.png",
+    "beer": "gui/button_object_screen/button_obj_beer_%s.png",
+    "fabada": "gui/button_object_screen/button_obj_fabada_%s.png",
+    "vino": "gui/button_object_screen/button_obj_vino_%s.png",
+    "hamburguer": "gui/button_object_screen/button_obj_hamburguer_%s.png",
+    "coffee": "gui/button_object_screen/button_obj_coffee_%s.png",
+
+    "brownie": "gui/button_object_screen/conbine/button_obj_browne_%s.png",
+    "sundae_deluxe": "gui/button_object_screen/conbine/button_obj_chococo_%s.png",
+    "cookie_ice": "gui/button_object_screen/conbine/button_obj_hamcookie_%s.png",
+    "choco_flower": "gui/button_object_screen/conbine/button_obj_bobo_%s.png",
+    "choco_pizza": "gui/button_object_screen/conbine/button_obj_pichoco_%s.png",
+    "sweet_pincho": "gui/button_object_screen/conbine/button_obj_pansugar_%s.png",
+    "vino_ice": "gui/button_object_screen/conbine/button_obj_vinoice_%s.png"
+}

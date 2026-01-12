@@ -1,0 +1,78 @@
+{
+  "brownie": {
+    "_comment": "Mezcla clásica de chocolate y galleta",
+    "requires": {
+      "chocolat": 2,
+      "cookie": 2,
+      "cola": 1,
+      "coffee": 2
+    },
+    "result": "brownie",
+    "quantity": 1
+  },
+
+  "sundae_deluxe": {
+    "_comment": "Helado con chocolate y coco rallado",
+    "requires": {
+      "ice_cream": 1,
+      "chocolat": 2,
+      "coco": 1,
+      "coffee": 1
+    },
+    "result": "sundae_deluxe",
+    "quantity": 1
+  },
+
+  "cookie_ice": {
+    "_comment": "Galleta rellena de helado",
+    "requires": {
+      "cookie": 1,
+      "ice_cream": 1
+    },
+    "result": "cookie_ice",
+    "quantity": 1
+  },
+
+  "choco_flower": {
+    "_comment": "Bombón floral, ideal para regalar",
+    "requires": {
+      "chocolat": 2,
+      "flower": 2
+    },
+    "result": "choco_flower",
+    "quantity": 1
+  },
+
+  "choco_pizza": {
+    "_comment": "Pizza con cobertura dulce (combinación curiosa)",
+    "requires": {
+      "pizza": 1,
+      "chocolat": 3,
+      "coffee": 1
+    },
+    "result": "choco_pizza",
+    "quantity": 1
+  },
+
+  "sweet_pincho": {
+    "_comment": "Pincho dulce con galleta",
+    "requires": {
+      "pincho": 1,
+      "cookie": 3
+    },
+    "result": "sweet_pincho",
+    "quantity": 1
+  },
+
+  "vino_ice": {
+    "_comment": "Helado con un toque de vino para personajes adultos",
+    "requires": {
+      "ice_cream": 1,
+      "pack": 1,
+      "vino": 1,
+      "beer": 1
+    },
+    "result": "vino_ice",
+    "quantity": 1
+  }
+}

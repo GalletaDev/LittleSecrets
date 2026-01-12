@@ -1,0 +1,30 @@
+{
+    "_comment": "Este archivo contiene precios de regalos",
+
+    "chocolat": 200,
+    "cookie": 225,
+    "ice_cream": 300,
+    "flower": 400,
+    "pack": 1500,
+    "perfume": 700,
+    "pizza": 1500,
+    "cola": 1000,
+    "chicken": 800,
+    "spaghetti": 780,
+    "pop": 300,
+    "coco": 400,
+    "pincho": 750,
+    "beer": 900,
+    "fabada": 1100,
+    "vino": 2000,
+    "hamburguer": 1800,
+    "coffee": 1500,
+
+    "brownie": 3500,
+    "sundae_deluxe": 3500,
+    "cookie_ice": 3500,
+    "choco_flower": 3500,
+    "choco_pizza": 3500,
+    "sweet_pincho": 3500,
+    "vino_ice": 3500
+}

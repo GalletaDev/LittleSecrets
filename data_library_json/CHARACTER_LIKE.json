@@ -1,0 +1,32 @@
+{
+    "azuli_": {
+        "likes": ["flower", "ice_cream", "chicken", "pincho", "fabada", "beer", "vino", "coffee", "perfume"],
+        "dislikes": ["chocolat", "coco", "sundae_deluxe", "choco_pizza"],
+        "morelike": ["vino_ice", "sweet_pincho", "cookie_ice"],
+        "bad": ["pack", "cookie", "cola", "pizza", "hamburguer"]
+    },
+    "milia_": {
+        "likes": ["flower", "perfume"],
+        "dislikes": ["chicken", "cola"],
+        "morelike": ["chocolat", "pizza", "coco"],
+        "bad": ["pack", "cookie", "cola"]
+    },
+    "cristal_": {
+        "likes": ["pizza", "spaghetti"],
+        "dislikes": ["ice_cream", "chocolate"],
+        "morelike": ["chocolat", "pizza", "coco"],
+        "bad": ["pack", "cookie", "cola"]
+    },
+    "blody_": {
+        "likes": ["coco", "pop"],
+        "dislikes": ["perfume", "spaghetti"],
+        "morelike": ["chocolat", "pizza", "coco"],
+        "bad": ["pack", "cookie", "cola"]
+    },
+    "pink_": {
+        "likes": ["coco", "pop"],
+        "dislikes": ["perfume", "spaghetti"],
+        "morelike": ["chocolat", "pizza", "coco"],
+        "bad": ["pack", "cookie", "cola"]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "_comment": "Este archivo contiene las imagenes de los regalos",
+
+    "chocolat": "gui/button_object_screen/button_obj_chocolat_hover.png",
+    "cookie": "gui/button_object_screen/button_obj_cookie_hover.png",
+    "ice_cream": "gui/button_object_screen/button_obj_icecream_hover.png",
+    "flower": "gui/button_object_screen/button_obj_flow_hover.png",
+    "pack": "gui/button_object_screen/button_obj_pack_hover.png",
+    "perfume": "gui/button_object_screen/button_obj_perfume_hover.png",
+    "pizza": "gui/button_object_screen/button_obj_pizza_hover.png",
+    "cola": "gui/button_object_screen/button_obj_cola_hover.png",
+    "chicken": "gui/button_object_screen/button_obj_chicken_hover.png",
+    "spaghetti": "gui/button_object_screen/button_obj_spaguetti_hover.png",
+    "pop": "gui/button_object_screen/button_obj_pop_hover.png",
+    "coco": "gui/button_object_screen/button_obj_coco_hover.png",
+    "pincho": "gui/button_object_screen/button_obj_pincho_hover.png",
+    "beer": "gui/button_object_screen/button_obj_beer_hover.png",
+    "fabada": "gui/button_object_screen/button_obj_fabada_hover.png",
+    "vino": "gui/button_object_screen/button_obj_vino_hover.png",
+    "hamburguer": "gui/button_object_screen/button_obj_hamburguer_hover.png",    
+    "coffee": "gui/button_object_screen/button_obj_coffee_hover.png",
+
+    "brownie": "gui/button_object_screen/conbine/button_obj_browne_hover.png",
+    "sundae_deluxe": "gui/button_object_screen/conbine/button_obj_chococo_hover.png",
+    "cookie_ice": "gui/button_object_screen/conbine/button_obj_hamcookie_hover.png",
+    "choco_flower": "gui/button_object_screen/conbine/button_obj_bobo_hover.png",
+    "choco_pizza": "gui/button_object_screen/conbine/button_obj_pichoco_hover.png",
+    "sweet_pincho": "gui/button_object_screen/conbine/button_obj_pansugar_hover.png",
+    "vino_ice": "gui/button_object_screen/conbine/button_obj_vinoice_hover.png"
+}
